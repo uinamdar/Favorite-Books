@@ -1,2 +1,6 @@
 #Favorite Books
-* The Great Gatsby
+
+## Fiction
+1. The Great Gatsby
+
+## Productivity
